@@ -8,7 +8,7 @@
 
 After completing my first major programming project (5 months of development), I found my motivation for learning programming starting to wane. I had just finished writing **FSParser** and studying the STL, so I decided to take a short break — waiting for a new idea to spark my interest.
 
-In late February, I returned with a fresh focus: diving into **SystemVerilog**. This led to a large project, involving deep low-level access and an entirely new type of development.
+In late February, I returned with a fresh focus: diving into **SystemVerilog**. This led to a large project (now 15k+ LOC, developed solo), involving deep low-level access and an entirely new type of development.
 
 During that time, I encountered a task requiring **Ring -1 access** — below the hypervisor level. It intrigued me, and I began building a prototype hypervisor-like kernel to explore the internals of the CPU, assembly, and operating systems.
 
